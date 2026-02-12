@@ -29,3 +29,7 @@ Audio steganography tool that encodes messages into WAV files using high-frequen
 *Best Data-Driven Hack @HopHacks 2025*
 
 Interactive visualization platform that maps tweets with location data and provides AI-powered trend explanations including sentiment analysis through Gemini API.
+
+<div align="right">
+  <img src="punpun.png" alt="punpun" width="10%">
+</div>
